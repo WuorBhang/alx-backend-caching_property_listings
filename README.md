@@ -29,7 +29,7 @@ A Django-based property listing application with Redis caching at multiple level
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/WuorBhang/alx-backend-caching_property_listings.git
 cd alx-backend-caching_property_listings
 ```
 
